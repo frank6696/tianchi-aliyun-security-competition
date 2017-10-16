@@ -8,4 +8,4 @@
 * 第一题由队友 @liang2713020 主要负责. 思路在答辩幻灯里有介绍, 代码这里就不具体给出了.
 * 第二题主要由我负责. 思路介绍/PAI模型/UDF代码见 [content_risk](content_risk/) 子文件夹. 
   * 说明: Java 代码写得不好, 欢迎指正; 另外比赛时一直以为平台上没有办法完整统计 2-gram, 因此采用了一种权宜的方法; 后来才知道可以自己写 map-reduce 来实现.
-* 答辩幻灯见 [presentation.key](presentation.key)
+* 答辩幻灯见 [presentation.pptx](presentation.pptx)
